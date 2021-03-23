@@ -23,7 +23,3 @@ namespace MyCourse
                 .UseStartup<Startup>();
     }
 }
-
-//ciaone
-//c2
-//c3
